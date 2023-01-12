@@ -1,1 +1,1 @@
-FROM hsakal/rclonemirror
+FROM hsakal/jmdhkrepo
