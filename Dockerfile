@@ -1,1 +1,1 @@
-FROM hsakal/gdtot
+FROM hsakal/edith
