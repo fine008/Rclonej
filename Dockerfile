@@ -1,1 +1,1 @@
-FROM hsakal/edithx
+FROM hsakal/edith
