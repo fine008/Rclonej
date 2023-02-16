@@ -1,1 +1,1 @@
-FROM hsakal/edithupdate
+FROM hsakal/edith
