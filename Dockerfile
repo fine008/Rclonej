@@ -1,4 +1,4 @@
-FROM hsakal/edith
+FROM hsakal/jmdhkrepo
 
 COPY . .
 
