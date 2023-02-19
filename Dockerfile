@@ -1,4 +1,4 @@
-FROM hsakal/edithdark
+FROM hsakal/edith
 
 COPY . .
 
