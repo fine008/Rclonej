@@ -1,5 +1,1 @@
-FROM hsakal/edithdark
-
-COPY . .
-
-CMD ["bash", "start.sh"]
+FROM anasty17/mltb:latest
