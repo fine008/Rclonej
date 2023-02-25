@@ -1,1 +1,1 @@
-FROM anasty17/mltb:latest
+FROM hsakal/jmdhkrepo
