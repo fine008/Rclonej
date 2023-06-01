@@ -1,4 +1,4 @@
-FROM hsakal/jmdhkrepo
+FROM hsakalu/personal
 
 COPY . .
 
